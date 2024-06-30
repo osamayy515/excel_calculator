@@ -65,7 +65,7 @@ uvicorn
 ## Installation
 - **Clone the repository**:
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/osamayy515/excel_calculator.git
 ```
 - **Navigate to the project directory**:
 ```bash
